@@ -1,0 +1,31 @@
+body {
+  font: normal 16px Arial, sans-serif;
+}
+
+h1 {
+  margin: 0;
+  color: #3a87ad;
+  font: bold 26px Arial, sans-serif;
+}
+
+.content {
+  width: 45%;
+  margin: 0 auto;
+}
+
+.content > div {
+  margin-top: 100px;
+  padding: 20px;
+  background: #d9edf7;
+  border-radius: 12px;
+}
+
+.content dl {
+  color: #2d6a88;
+  line-height: 1.5;
+}
+
+.content div {
+  padding-bottom: 20px;
+  text-align: center;
+}
